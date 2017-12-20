@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/aalluri7/spacewiki/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+[aboutme](https://aalluri7.github.io/spacewiki/aboutme)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
